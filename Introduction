@@ -1,0 +1,5 @@
+1. Project Inheritance:
+- Our module can now inherit some of the properties of our parent POM( artifactId, groupId...)
+2. Project Aggregation:
+- Project Aggregation is similar to Project Inheritance. But instead of specifying the parent POM from the module.
+We can have both Inheritance and Aggregation.
